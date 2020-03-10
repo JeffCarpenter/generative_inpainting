@@ -23,7 +23,7 @@ Free-form image inpainting results by our system built on gated convolution. Eac
 
 0. Requirements:
     * Install python3.
-    * Install [tensorflow](https://www.tensorflow.org/install/) (tested on Release 1.3.0, 1.4.0, 1.5.0, 1.6.0, 1.7.0).
+    * Install [tensorflow](https://www.tensorflow.org/install/) (tested on ~~Release 1.3.0, 1.4.0, 1.5.0, 1.6.0, 1.7.0~~ TensorFlow 2.1.0 + NVIDIA driver 418.39 + CUDA 10.1).
     * ~~Install tensorflow toolkit [neuralgym](https://github.com/JiahuiYu/neuralgym) (run `pip install git+https://github.com/JiahuiYu/neuralgym`).~~
 1. Training:
     * Prepare training images filelist and shuffle it ([example](https://github.com/JiahuiYu/generative_inpainting/issues/15)).
