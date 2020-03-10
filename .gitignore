@@ -2,3 +2,8 @@ model_logs
 logs
 data
 __pycache__
+input_images
+dataset
+output_images
+visualize.png
+masked_images
