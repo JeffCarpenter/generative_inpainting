@@ -2,8 +2,5 @@ model_logs
 logs
 data
 __pycache__
-input_images
+ref-private
 dataset
-output_images
-visualize.png
-masked_images
