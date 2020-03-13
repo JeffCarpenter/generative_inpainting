@@ -1,6 +1,6 @@
 model_logs
 logs
-data
+/data/
 __pycache__
 ref-priv
 model_logs_backup
